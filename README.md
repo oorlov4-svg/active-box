@@ -1,9 +1,9 @@
 🌐 ActiveBox — Website for Uploading and Showcasing Layouts
 
 ActiveBox is a responsive web application built with HTML, CSS, and JavaScript, designed to allow users to upload and showcase their own web layouts in a clean and modern interface. The project demonstrates practical skills in building user interfaces and implementing basic interactivity.
-📸 Screenshots
 
-![Screen](active-box/img/screen.jpg)
+📸 Screenshots
+![Screen](img/screen.jpg)
 
 🚀 Features
 
